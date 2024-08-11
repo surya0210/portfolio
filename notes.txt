@@ -85,3 +85,15 @@ padding: adds gap b/w the element and the border
 
 margin:the gap b/w border and any other content on screen is called margin
 
+
+
+css order depends on position specificity type importance
+
+position->lower down is more important
+
+specificity->id>attribute>className>element
+
+type->inline>internal>external
+
+importance-> !important (if we write this everything wil get overridden)
+
