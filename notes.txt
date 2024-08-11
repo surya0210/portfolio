@@ -49,3 +49,39 @@ Boiler Plate HTML
    
 </body>
 </html>
+
+
+Cascading style sheets
+
+1.CSS
+2.Sass
+3.Less and manymore
+
+3 ways of adding css 
+1.Inline 2.Internal<style> 3.External <link>  
+
+Class selector .
+Element selector h1
+Id selector #(should be unique and only used once in one html)
+Attribute selector p[draggabale] select the html element and the attribute.You can use attribute value also to do the css
+
+* means applied everywhere
+
+
+1px=1/96 inch =0.26mm wide and tall
+1pt =1/72 inch =0.35mm wide and tall
+1em->it is talking the full size of the parent.lets say body has 20px and in that h1 =1 em then it is also 20 px
+1rem->it is taking the size of root.
+
+font-weight:normal,bold,lighter,bolder(relative to parent +100 from parent),number(100-900)
+font-family:if spaces in b/w write in quotes 
+
+
+border :thickness style colour (adds to the outside of the element)
+height and width of box doen't change with change in border
+border-width:top right bottom left we can set as top-bottom right-left
+
+padding: adds gap b/w the element and the border
+
+margin:the gap b/w border and any other content on screen is called margin
+
