@@ -1,0 +1,9 @@
+Hyper Text Markup Language
+Hyper Text->text which links with another document
+Markup -> tags in the language of the behaviour of the text
+
+
+Heading Elements <h1>My name is surya </h1>  here <h1> ->opening tag  </h1> closing tag 
+and tags+content is called Element
+
+there are h1 to h6

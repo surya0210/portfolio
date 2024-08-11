@@ -1,0 +1,51 @@
+Everything in the world is a computer and every computer has an ip.
+So we need to connect to another computer (server).
+
+Internet is nothing but a big wire connection for transferring of data.
+
+Once we type google the call will go to our ISP ->DNS(Domain nam system) and that will give us the ip of google and then dns connect to it and then back to isp and then back to us
+
+There should be only one h1 in the page
+
+Dont skip a level like from h1 dont go directly to h3(h2 should be also there)
+
+Headings, paragraph are non void elements
+
+void element you are forbidden to keep any content.It looks like <hr/>
+<hr/>(Horizontal Rule Element drwas a line)
+
+<br/>(break)
+
+<ul></ul>->create bullet points of list items
+
+<ol></ol>->create items with numbers
+
+<li></li> ->List item
+
+Anchor tag <a>This is link</a> but we need to add an attribute to this so that the hyperlink will work.the attribute in this case href
+
+<a href="https://www.google.com">this is the link</a>
+
+Image tag <img/> img us a void tag attribut is src an alt
+
+
+Current directory ./
+
+previous directory ../
+
+next directory directoy/file
+
+
+Boiler Plate HTML
+
+<!DOCTYPE html> which says the version of html
+<html lang="en"> where we write actual html
+<head> important information about the website is written which is not displayed to the user 
+  <meta charset="UTF-8"> meta tag setting all the characters to UTF-8
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>  title is the text written on top of the tab
+</head>
+<body> where we will create the page 
+   
+</body>
+</html>
